@@ -1,6 +1,3 @@
-# from multiprocessing.sharedctypes import Value
-# from pickle import FALSE
-
 
 class Node:
     def __init__(self, value):
